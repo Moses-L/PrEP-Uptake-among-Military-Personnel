@@ -1,4 +1,2 @@
 # PrEP-Uptake-among-Military-Personnel
-This study examines attitudes and barriers to PrEP uptake among military personnel, assessing adoption and effectiveness. A cross-sectional survey of 400 personnel in Abuja used stratified random sampling across military branches. Data analysis included Chi-square tests and logistic regression to identify key factors influencing PrEP utilization and HIV prevention strategies.
-
-
+Analysis of survey of 400 military personnel in Abuja, Nigeria, examined PrEP uptake. Participants were predominantly male (70%) with a median age of 34. While attitudes toward PrEP’s efficacy (µ = 3.1, σ = 0.89) and promotion (µ = 3.2, σ = 0.77) were positive, 63% had never considered its use. Significant associations emerged between PrEP attitudes and demographics, including gender (χ² = 41.26, p = 0.032), service arm (χ² = 42.26, p = 0.003), rank (χ² = 36.27, p = 0.014), years of service (χ² = 64.38, p = 0.001), and marital status (χ² = 45.61, p = 0.001). Logistic regression showed that disclosure to family and friends significantly reduced uptake ( β = 0.244, Exp(B) = 1.276, p = 0.037).
